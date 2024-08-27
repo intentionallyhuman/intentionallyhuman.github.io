@@ -1,24 +1,21 @@
 ---
-layout: default
-title: Chulapa on remote
+layout: landingpage
+title: Intentionally Human
 header_type: hero
-subtitle: Starter pack
+subtitle: Private, Respectful, Human Technology for Any Organization
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+In a world of complex problems, let us help you simplify and delight. We work with some of the best-in-class vendors and technologists to bring a human solution to your technology.
 
-Contains basic configuration to get you a site with:
+# Intentionally Expansive
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+We can help across a wide range of privacy and technology ethics needs including:
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
+- Privacy Impact Assessments
+- Design and implementation of Respectful-By-Default infrastructure
+- Training design and implementation for your organization
+- Privacy-centric tooling that integrates with your workflow
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+# Intentionally Inclusive
+
+Technology only works when it represents the fabric of society we live in; we make sure that your organization can scale from the city to the world by bringing a global perspective to your technology problems. With over a decade of technology experience in our firm, we can bring solutions that delight and respect your customers.
